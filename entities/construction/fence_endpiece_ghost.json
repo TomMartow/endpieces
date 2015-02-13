@@ -1,0 +1,25 @@
+{
+   "type": "entity",
+
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(fence_endpiece.qb)"
+            ]
+         }
+      },
+      "unit_info": {
+         "name": "Picket Fence End Piece",
+         "description": "The end piece.",
+         "icon" : "file(fence_endpiece.png)"
+      },
+      "stonehearth:material" : {
+         "tags" : "wood fence end"
+      },
+      "mob" : {
+         "model_origin" : { "x": 0, "y": 0, "z": 0 },
+         "region_origin" : { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   }
+}

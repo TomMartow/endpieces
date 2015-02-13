@@ -1,0 +1,21 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Cobblestone Fence End Piece",
+   "description" : "Wall-E(nd).",
+   "flavor"      : "",
+   "portrait"    : "/endpieces/entities/construction/wall_endpiece.png", 
+
+   "ingredients": [
+      {
+         "material" : "stone resource",
+         "count" : 1
+      }
+  ],
+  "produces": [
+      {
+         "item":"endpieces:wall_endpiece"
+      }
+  ]
+}

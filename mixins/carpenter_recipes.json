@@ -1,0 +1,14 @@
+{
+    "craftable_recipes": {
+        "building_parts": {
+            "recipes": {
+                "fence_endpiece": {
+                    "recipe": "file(/recipes/fence_endpiece_recipe.json)"
+                },
+                "fence_piece": {
+                    "recipe": "file(/recipes/fence_piece_recipe.json)"
+                }
+            }
+        }
+    }
+}

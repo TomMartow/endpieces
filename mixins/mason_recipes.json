@@ -1,0 +1,14 @@
+{
+    "craftable_recipes": {
+        "building_parts": {
+            "recipes": {
+                "wall_endpiece": {
+                    "recipe": "file(/recipes/wall_endpiece_recipe.json)"
+                },
+                "wall_piece": {
+                    "recipe": "file(/recipes/wall_piece_recipe.json)"
+                }
+            }
+        }
+    }
+}

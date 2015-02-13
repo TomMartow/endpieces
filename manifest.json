@@ -1,0 +1,20 @@
+{
+    "info": {
+        "name": "End Pieces",
+        "version": 1
+    },
+    "aliases": {
+        "fence_endpiece": "file(entities/construction/fence_endpiece.json)",
+        "fence_piece": "file(entities/construction/fence_piece.json)",
+        "wall_endpiece": "file(entities/construction/wall_endpiece.json)",
+        "wall_piece": "file(entities/construction/wall_piece.json)"
+    },
+    "mixintos": {
+        "/stonehearth/jobs/carpenter/recipes/recipes.json": [
+            "file(mixins/carpenter_recipes.json)"
+        ],
+        "/stonehearth/jobs/mason/recipes/recipes.json": [
+            "file(mixins/mason_recipes.json)"
+        ]
+    }
+}

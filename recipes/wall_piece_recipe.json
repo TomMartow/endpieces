@@ -1,0 +1,21 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Cobblestone Fence Piece",
+   "description" : "Like a post made out of Stone.",
+   "flavor"      : "",
+   "portrait"    : "/endpieces/entities/construction/wall_piece.png", 
+
+   "ingredients": [
+      {
+         "material" : "stone resource",
+         "count" : 1
+      }
+  ],
+  "produces": [
+      {
+         "item":"endpieces:wall_piece"
+      }
+  ]
+}

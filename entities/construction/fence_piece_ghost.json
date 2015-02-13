@@ -1,0 +1,23 @@
+{
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(fence_piece.qb)"
+            ]
+         }
+      },
+      "unit_info": {
+         "name": "Picket Fence Post",
+         "description": "It's just a post.",
+         "icon" : "file(fence_piece.png)"
+      },
+      "stonehearth:material" : {
+         "tags" : "wood post crafted"
+      },
+      "mob" : {
+         "model_origin" : { "x": 0, "y": 0, "z": 0 },
+         "region_origin" : { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   }
+}
