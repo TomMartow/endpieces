@@ -1,0 +1,21 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Cobblestone Fence Post",
+   "description" : "It's a single post.",
+   "flavor"      : "Should be a weapon really.",
+   "portrait"    : "/endpieces/entities/construction/wall_ppiece.png", 
+
+   "ingredients": [
+      {
+         "material" : "stone resource",
+         "count" : 1
+      }
+  ],
+  "produces": [
+      {
+         "item":"endpieces:wall_ppiece"
+      }
+  ]
+}

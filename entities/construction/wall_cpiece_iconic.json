@@ -1,0 +1,19 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "item" : {
+         "category" : "construction"
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(wall_cpiece_iconic.qb)"
+            ]
+         }
+      },
+      "mob" : {
+         "model_origin" : { "x": -0.5, "y": 0, "z": -0.5 }
+      }
+   }
+}

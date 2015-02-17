@@ -1,0 +1,21 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Picket Fence 'X' Piece",
+   "description" : "A cross section for fences.",
+   "flavor"      : "This is all too much.",
+   "portrait"    : "/endpieces/entities/construction/fence_xpiece.png", 
+   "level_requirement" : 1,
+   "ingredients": [
+      {
+         "material" : "wood resource",
+         "count" : 1
+      }
+  ],
+  "produces": [
+      {
+         "item":"endpieces:fence_xpiece"
+      }
+  ]
+}
