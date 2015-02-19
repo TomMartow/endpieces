@@ -1,0 +1,19 @@
+{
+    "type": "entity",
+    "mixins": "file(fence_ppiece_ghost.json)",
+    "components": {
+        "stonehearth:entity_forms": {
+            "iconic_form": "file(fence_ppiece_iconic.json)",
+            "ghost_form": "file(fence_ppiece_ghost.json)",
+            "placeable_on_ground": true
+        },
+        "region_collision_shape" : {
+         "region": [
+            {
+               "min" : { "x" : 0.25, "y" : 0, "z" : 0.25 },
+               "max" : { "x" : 0.75, "y" : 2, "z" : 0.75 }
+            }
+         ]
+     }
+   }
+}

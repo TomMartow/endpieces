@@ -1,0 +1,21 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Picket Fence End Piece",
+   "description" : "The end to all things fence.",
+   "flavor"      : "An end piece, whoa!",
+   "portrait"    : "/endpieces/entities/construction/fence_epiece.png", 
+   "level_requirement" : 1,
+   "ingredients": [
+      {
+         "material" : "wood resource",
+         "count" : 1
+      }
+  ],
+  "produces": [
+      {
+         "item":"endpieces:fence_epiece"
+      }
+  ]
+}

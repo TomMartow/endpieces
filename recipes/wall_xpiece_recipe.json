@@ -1,0 +1,21 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Cobblestone Fence 'X' Piece",
+   "description" : "A cross section for walls.",
+   "flavor"      : "This is all too much.",
+   "portrait"    : "/endpieces/entities/construction/wall_xpiece.png", 
+
+   "ingredients": [
+      {
+         "material" : "stone resource",
+         "count" : 1
+      }
+  ],
+  "produces": [
+      {
+         "item":"endpieces:wall_xpiece"
+      }
+  ]
+}

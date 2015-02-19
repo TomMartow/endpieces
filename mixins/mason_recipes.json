@@ -1,0 +1,23 @@
+{
+    "craftable_recipes": {
+        "building_parts": {
+            "recipes": {
+                "wall_xpiece": {
+                    "recipe": "file(/recipes/wall_xpiece_recipe.json)"
+                },
+				"wall_tpiece": {
+                    "recipe": "file(/recipes/wall_tpiece_recipe.json)"
+                },
+				"wall_epiece": {
+                    "recipe": "file(/recipes/wall_epiece_recipe.json)"
+                },
+				"wall_cpiece": {
+                    "recipe": "file(/recipes/wall_cpiece_recipe.json)"
+                },
+				"wall_ppiece": {
+                    "recipe": "file(/recipes/wall_ppiece_recipe.json)"
+                }
+            }
+        }
+    }
+}
