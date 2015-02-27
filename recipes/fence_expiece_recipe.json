@@ -1,0 +1,21 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Picket Fence Extender Piece",
+   "description" : "No posts here.",
+   "flavor"      : "Now we don't have to dig so far down.",
+   "portrait"    : "/endpieces/entities/construction/fence_expiece.png", 
+   "level_requirement" : 1,
+   "ingredients": [
+      {
+         "material" : "wood resource",
+         "count" : 1
+      }
+  ],
+  "produces": [
+      {
+         "item":"endpieces:fence_expiece"
+      }
+  ]
+}
