@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Cobblestone Fence End Piece",
-   "description" : "The end to all things wall.",
-   "flavor"      : "An end piece, whoa!",
+   "recipe_name" : "i18n(endpieces:recipes.wall_epiece_recipe.recipe_name)",
+   "description" : "i18n(endpieces:recipes.wall_epiece_recipe.description)",
+   "flavor"      : "i18n(endpieces:recipes.wall_epiece_recipe.flavor)",
    "portrait"    : "/endpieces/entities/construction/wall_epiece.png", 
 
    "ingredients": [

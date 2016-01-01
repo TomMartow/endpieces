@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Picket Fence 'C' Piece",
-   "description" : "Making fence corners look better.",
-   "flavor"      : "It's a corner.",
+   "recipe_name" : "i18n(endpieces:recipes.fence_cpiece_recipe.recipe_name)",
+   "description" : "i18n(endpieces:recipes.fence_cpiece_recipe.description)",
+   "flavor"      : "i18n(endpieces:recipes.fence_cpiece_recipe.flavor)",
    "portrait"    : "/endpieces/entities/construction/fence_cpiece.png", 
    "level_requirement" : 1,
    "ingredients": [

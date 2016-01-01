@@ -8,8 +8,8 @@
          }
       },
       "unit_info": {
-         "name": "Cobblestone Fence End Piece",
-         "description": "A rustic, sturdy wall segment.",
+         "name": "i18n(endpieces:entities.construction.wall_epiece_ghost.name)",
+         "description": "i18n(endpieces:entities.construction.wall_epiece_ghost.description)",
          "icon" : "file(wall_epiece.png)"
       },
       "stonehearth:material" : {

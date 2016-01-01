@@ -8,8 +8,8 @@
          }
       },
       "unit_info": {
-         "name": "Cobblestone Fence 'T' Piece",
-         "description": "A rustic, sturdy wall segment.",
+         "name": "i18n(endpieces:entities.construction.wall_tpiece_ghost.name)",
+         "description": "i18n(endpieces:entities.construction.wall_tpiece_ghost.description)",
          "icon" : "file(wall_tpiece.png)"
       },
       "stonehearth:material" : {

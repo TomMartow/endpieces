@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Picket Fence Post",
-   "description" : "It's a single post.",
-   "flavor"      : "Should be a weapon really.",
+   "recipe_name" : "i18n(endpieces:recipes.fence_ppiece_recipe.recipe_name)",
+   "description" : "i18n(endpieces:recipes.fence_ppiece_recipe.description)",
+   "flavor"      : "i18n(endpieces:recipes.fence_ppiece_recipe.flavor)",
    "portrait"    : "/endpieces/entities/construction/fence_ppiece.png", 
    "level_requirement" : 1,
    "ingredients": [

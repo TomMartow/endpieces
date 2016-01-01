@@ -3,14 +3,14 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(wall_xpiece.qb)"
+               "file(fence_expiece.qb)"
             ]
          }
       },
       "unit_info": {
-         "name": "i18n(endpieces:entities.construction.wall_xpiece_ghost.name)",
-         "description": "i18n(endpieces:entities.construction.wall_xpiece_ghost.description)",
-         "icon" : "file(wall_xpiece.png)"
+         "name": "i18n(endpieces:entities.construction.fence_expiece_ghost.name)",
+         "description": "i18n(endpieces:entities.construction.fence_expiece_ghost.description)",
+         "icon" : "file(fence_expiece.png)"
       },
       "stonehearth:material" : {
          "tags" : "wood defense crafted"

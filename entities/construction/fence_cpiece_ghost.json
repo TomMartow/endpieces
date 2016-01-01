@@ -8,8 +8,8 @@
          }
       },
       "unit_info": {
-         "name": "Picket Fence 'C' Piece",
-         "description": "If it's not white, is our life unfulfilled?",
+         "name": "i18n(endpieces:entities.construction.fence_cpiece_ghost.name)",
+         "description": "i18n(endpieces:entities.construction.fence_cpiece_ghost.description)",
          "icon" : "file(fence_cpiece.png)"
       },
       "stonehearth:material" : {
