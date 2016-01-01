@@ -2,15 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-<<<<<<< HEAD
    "recipe_name" : "i18n(endpieces:recipes.fence_expiece_recipe.recipe_name)",
    "description" : "i18n(endpieces:recipes.fence_expiece_recipe.description)",
    "flavor"      : "i18n(endpieces:recipes.fence_expiece_recipe.flavor)",
-=======
-   "recipe_name" : "Picket Fence Extender Piece",
-   "description" : "No posts here.",
-   "flavor"      : "Now we don't have to dig so far down.",
->>>>>>> origin/master
    "portrait"    : "/endpieces/entities/construction/fence_expiece.png", 
    "level_requirement" : 1,
    "ingredients": [
