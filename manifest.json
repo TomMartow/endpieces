@@ -19,11 +19,7 @@
 		"wall_ppiece": "file(entities/construction/wall_ppiece.json)"
     },
     "mixintos": {
-        "/stonehearth/jobs/carpenter/recipes/recipes.json": [
-            "file(mixins/carpenter_recipes.json)"
-        ],
-        "/stonehearth/jobs/mason/recipes/recipes.json": [
-            "file(mixins/mason_recipes.json)"
-        ]
+        "/stonehearth/jobs/carpenter/recipes/recipes.json": "file(mixins/carpenter_recipes.json)",
+        "/stonehearth/jobs/mason/recipes/recipes.json": "file(mixins/mason_recipes.json)"
     }
 }
