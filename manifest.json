@@ -1,29 +1,29 @@
 {
-    "info": {
-        "name": "End Pieces",
-        "version": 1
-    },
-    "default_locale": "en",
-    "aliases": {
-        "fence_xpiece": "file(entities/construction/fence_xpiece.json)",
-        "fence_tpiece": "file(entities/construction/fence_tpiece.json)",
-        "fence_epiece": "file(entities/construction/fence_epiece.json)",
-		"fence_expiece": "file(entities/construction/fence_expiece.json)",
-		"fence_cpiece": "file(entities/construction/fence_cpiece.json)",
-		"fence_ppiece": "file(entities/construction/fence_ppiece.json)",
-		"fence_spiece": "file(entities/construction/fence_spiece.json)",
-        "wall_xpiece": "file(entities/construction/wall_xpiece.json)",
-        "wall_tpiece": "file(entities/construction/wall_tpiece.json)",
-        "wall_epiece": "file(entities/construction/wall_epiece.json)",
-		"wall_cpiece": "file(entities/construction/wall_cpiece.json)",
-		"wall_ppiece": "file(entities/construction/wall_ppiece.json)"
-    },
-    "mixintos": {
-        "/stonehearth/jobs/carpenter/recipes/recipes.json": [
-            "file(mixins/carpenter_recipes.json)"
-        ],
-        "/stonehearth/jobs/mason/recipes/recipes.json": [
-            "file(mixins/mason_recipes.json)"
-        ]
-    }
+	"info" : {
+		"name" : "End Pieces",
+		"version" : 1
+	},
+	"default_locale" : "en",
+	"aliases" : {
+		"fence_xpiece" : "file(entities/construction/fence_xpiece.json)",
+		"fence_tpiece" : "file(entities/construction/fence_tpiece.json)",
+		"fence_epiece" : "file(entities/construction/fence_epiece.json)",
+		"fence_expiece" : "file(entities/construction/fence_expiece.json)",
+		"fence_cpiece" : "file(entities/construction/fence_cpiece.json)",
+		"fence_ppiece" : "file(entities/construction/fence_ppiece.json)",
+		"fence_spiece" : "file(entities/construction/fence_spiece.json)",
+		"wall_xpiece" : "file(entities/construction/wall_xpiece.json)",
+		"wall_tpiece" : "file(entities/construction/wall_tpiece.json)",
+		"wall_epiece" : "file(entities/construction/wall_epiece.json)",
+		"wall_cpiece" : "file(entities/construction/wall_cpiece.json)",
+		"wall_ppiece" : "file(entities/construction/wall_ppiece.json)"
+	},
+	"mixintos" : {
+		"/stonehearth/jobs/carpenter/recipes/recipes.json" : [
+			"file(mixins/carpenter_recipes.json)"
+		],
+		"/stonehearth/jobs/mason/recipes/recipes.json" : [
+			"file(mixins/mason_recipes.json)"
+		]
+	}
 }

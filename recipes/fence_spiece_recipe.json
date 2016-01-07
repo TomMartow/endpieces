@@ -1,21 +1,19 @@
 {
-   "type":"recipe",
+	"type" : "recipe",
 
-   "work_units"  : 3,
-   "recipe_name" : "i18n(endpieces:recipes.fence_spiece_recipe.recipe_name)",
-   "description" : "i18n(endpieces:recipes.fence_spiece_recipe.description)",
-   "flavor"      : "i18n(endpieces:recipes.fence_spiece_recipe.flavor)",
-   "portrait"    : "/endpieces/entities/construction/fence_spiece.png", 
-   "level_requirement" : 1,
-   "ingredients": [
-      {
-         "material" : "wood resource",
-         "count" : 1
-      }
-  ],
-  "produces": [
-      {
-         "item":"endpieces:fence_spiece"
-      }
-  ]
+	"work_units" : 3,
+	"recipe_name" : "i18n(endpieces:recipes.fence_spiece_recipe.recipe_name)",
+	"description" : "i18n(endpieces:recipes.fence_spiece_recipe.description)",
+	"flavor" : "i18n(endpieces:recipes.fence_spiece_recipe.flavor)",
+	"portrait" : "/endpieces/entities/construction/fence_spiece.png",
+	"level_requirement" : 1,
+	"ingredients" : [{
+			"material" : "wood resource",
+			"count" : 1
+		}
+	],
+	"produces" : [{
+			"item" : "endpieces:fence_spiece"
+		}
+	]
 }
