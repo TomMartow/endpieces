@@ -6,6 +6,7 @@
 	"description" : "i18n(endpieces:recipes.wall_ppiece_recipe.description)",
 	"flavor" : "i18n(endpieces:recipes.wall_ppiece_recipe.flavor)",
 	"portrait" : "/endpieces/entities/construction/wall_ppiece.png",
+	"workshop" : "stonehearth:mason:workbench",
 
 	"ingredients" : [{
 			"material" : "stone resource",

@@ -2,6 +2,9 @@
 	"craftable_recipes" : {
 		"building_parts" : {
 			"recipes" : {
+				"wall_10piece" : {
+					"recipe" : "file(/recipes/wall_10piece_recipe.json)"
+				},
 				"wall_xpiece" : {
 					"recipe" : "file(/recipes/wall_xpiece_recipe.json)"
 				},

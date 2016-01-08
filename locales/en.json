@@ -1,5 +1,10 @@
 {
 	"recipes" : {
+		"fence_10piece_recipe" : {
+			"recipe_name" : "10 Piece Fence",
+			"description" : "Good luck carrying this.",
+			"flavor" : "Single file please."
+		},
 		"fence_cpiece_recipe" : {
 			"recipe_name" : "Corner Piece",
 			"description" : "Where bad Earthlings are sent.",
@@ -35,6 +40,11 @@
 			"description" : "X Marks the Spot!",
 			"flavor" : "Well...?"
 		},
+		"wall_10piece_recipe" : {
+			"recipe_name" : "10 Piece Wall",
+			"description" : "No way he's picking this up.",
+			"flavor" : "Lazy ass players."
+		},
 		"wall_cpiece_recipe" : {
 			"recipe_name" : "Corner Piece",
 			"description" : "Where bad Earthlings are sent.",
@@ -63,6 +73,10 @@
 	},
 	"entities" : {
 		"construction" : {
+			"fence_10piece_ghost" : {
+				"description" : "How on earth did he pick that up?",
+				"name" : "10 Piece Fence"
+			},
 			"fence_cpiece_ghost" : {
 				"description" : "Where bad Earthlings are sent.",
 				"name" : "Corner Piece"
@@ -90,6 +104,10 @@
 			"fence_xpiece_ghost" : {
 				"description" : "X Marks the Spot!",
 				"name" : "Cross Junction Connection"
+			},
+			"wall_10piece_ghost" : {
+				"description" : "Strong man.",
+				"name" : "10 Piece Wall"
 			},
 			"wall_cpiece_ghost" : {
 				"description" : "Where bad Earthlings are sent.",

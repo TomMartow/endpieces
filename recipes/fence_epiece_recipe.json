@@ -6,6 +6,7 @@
 	"description" : "i18n(endpieces:recipes.fence_epiece_recipe.description)",
 	"flavor" : "i18n(endpieces:recipes.fence_epiece_recipe.flavor)",
 	"portrait" : "/endpieces/entities/construction/fence_epiece.png",
+	"workshop" : "stonehearth:carpenter:workbench",
 	"level_requirement" : 1,
 	"ingredients" : [{
 			"material" : "wood resource",
