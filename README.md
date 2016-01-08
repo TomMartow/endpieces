@@ -8,8 +8,8 @@ _This modification adds 14 lore friendly models to Stonehearth complementing the
  - Single Post
  - Wooden Extender Piece (wood only)
  - Stair Piece (wood only)
- - 10 Piece Fence
- - 10 Piece Wall
+ - 10 Piece Fence (wood only)
+ - 10 Piece Wall (stone only)
 
 ### _Installation_
 
