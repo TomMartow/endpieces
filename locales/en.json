@@ -1,115 +1,133 @@
 {
-	"recipes": {
-		"fence_cpiece_recipe": {
-			"recipe_name": "Corner Piece",
-			"description": "Where bad Earthlings are sent.",
-			"flavor": "What"
+	"recipes" : {
+		"fence_10piece_recipe" : {
+			"recipe_name" : "10 Piece Fence",
+			"description" : "Good luck carrying this.",
+			"flavor" : "Single file please."
 		},
-		"fence_epiece_recipe": {
-			"recipe_name": "End Post",
-			"description": "A sad end to a great post.",
-			"flavor": "Does"
+		"fence_cpiece_recipe" : {
+			"recipe_name" : "Corner Piece",
+			"description" : "Where bad Earthlings are sent.",
+			"flavor" : "What"
 		},
-		"fence_expiece_recipe": {
-			"recipe_name": "Extender Piece",
-			"description": "#AllSizesMatter",
-			"flavor": "The"
+		"fence_epiece_recipe" : {
+			"recipe_name" : "End Post",
+			"description" : "A sad end to a great post.",
+			"flavor" : "Does"
 		},
-		"fence_ppiece_recipe": {
-			"recipe_name": "Single Post",
-			"description": "Nothing Special",
-			"flavor": "Fox"
+		"fence_expiece_recipe" : {
+			"recipe_name" : "Extender Piece",
+			"description" : "#AllSizesMatter",
+			"flavor" : "The"
 		},
-		"fence_spiece_recipe": {
-			"recipe_name": "Stair Piece",
-			"description": "Going Up...",
-			"flavor": "Say?"
+		"fence_ppiece_recipe" : {
+			"recipe_name" : "Single Post",
+			"description" : "Nothing Special",
+			"flavor" : "Fox"
 		},
-		"fence_tpiece_recipe": {
-			"recipe_name": "T-Junction Connection",
-			"description": "Look both ways.",
-			"flavor": "..."
+		"fence_spiece_recipe" : {
+			"recipe_name" : "Stair Piece",
+			"description" : "Going Up...",
+			"flavor" : "Say?"
 		},
-		"fence_xpiece_recipe": {
-			"recipe_name": "Cross Junction Connection",
-			"description": "X Marks the Spot!",
-			"flavor": "Well...?"
+		"fence_tpiece_recipe" : {
+			"recipe_name" : "T-Junction Connection",
+			"description" : "Look both ways.",
+			"flavor" : "..."
 		},
-		"wall_cpiece_recipe": {
-			"recipe_name": "Corner Piece",
-			"description": "Where bad Earthlings are sent.",
-			"flavor": "Did you hear about that mummy..."
+		"fence_xpiece_recipe" : {
+			"recipe_name" : "Cross Junction Connection",
+			"description" : "X Marks the Spot!",
+			"flavor" : "Well...?"
 		},
-		"wall_epiece_recipe": {
-			"recipe_name": "Wall End",
-			"description": "A sad end to a great wall.",
-			"flavor": "...They found covered in Hazelnut..."
+		"wall_10piece_recipe" : {
+			"recipe_name" : "10 Piece Wall",
+			"description" : "No way he's picking this up.",
+			"flavor" : "Lazy ass players."
 		},
-		"wall_ppiece_recipe": {
-			"recipe_name": "Single Wall Piece",
-			"description": "Why did I create this model?",
-			"flavor": "...and Chocolate?"
+		"wall_cpiece_recipe" : {
+			"recipe_name" : "Corner Piece",
+			"description" : "Where bad Earthlings are sent.",
+			"flavor" : "Did you hear about that mummy..."
 		},
-		"wall_tpiece_recipe": {
-			"recipe_name": "T-Junction Connection",
-			"description": "Look both ways.",
-			"flavor": "They're calling him..."
+		"wall_epiece_recipe" : {
+			"recipe_name" : "Wall End",
+			"description" : "A sad end to a great wall.",
+			"flavor" : "...They found covered in Hazelnut..."
 		},
-		"wall_xpiece_recipe": {
-			"recipe_name": "Cross Junction Connection",
-			"description": "X Marks the forget it.",
-			"flavor": "...Pharoah Rocher."
+		"wall_ppiece_recipe" : {
+			"recipe_name" : "Single Wall Piece",
+			"description" : "Why did I create this model?",
+			"flavor" : "...and Chocolate?"
+		},
+		"wall_tpiece_recipe" : {
+			"recipe_name" : "T-Junction Connection",
+			"description" : "Look both ways.",
+			"flavor" : "They're calling him..."
+		},
+		"wall_xpiece_recipe" : {
+			"recipe_name" : "Cross Junction Connection",
+			"description" : "X Marks the forget it.",
+			"flavor" : "...Pharoah Rocher."
 		}
 	},
-	"entities": {
-		"construction": {
-			"fence_cpiece_ghost": {
-				"description": "Where bad Earthlings are sent.",
-				"name": "Corner Piece"
+	"entities" : {
+		"construction" : {
+			"fence_10piece_ghost" : {
+				"description" : "How on earth did he pick that up?",
+				"name" : "10 Piece Fence"
 			},
-			"fence_epiece_ghost": {
-				"description": "A sad end to a great post.",
-				"name": "End Post"
+			"fence_cpiece_ghost" : {
+				"description" : "Where bad Earthlings are sent.",
+				"name" : "Corner Piece"
 			},
-			"fence_expiece_ghost": {
-				"description": "#AllSizesMatter",
-				"name": "Extender Piece"
+			"fence_epiece_ghost" : {
+				"description" : "A sad end to a great post.",
+				"name" : "End Post"
 			},
-			"fence_ppiece_ghost": {
-				"description": "Nothing Special",
-				"name": "Single Post"
+			"fence_expiece_ghost" : {
+				"description" : "#AllSizesMatter",
+				"name" : "Extender Piece"
 			},
-			"fence_spiece_ghost": {
-				"description": "Going Up...",
-				"name": "Stair Piece"
+			"fence_ppiece_ghost" : {
+				"description" : "Nothing Special",
+				"name" : "Single Post"
 			},
-			"fence_tpiece_ghost": {
-				"description": "Look both ways.",
-				"name": "T-Junction Connection"
+			"fence_spiece_ghost" : {
+				"description" : "Going Up...",
+				"name" : "Stair Piece"
 			},
-			"fence_xpiece_ghost": {
-				"description": "X Marks the Spot!",
-				"name": "Cross Junction Connection"
+			"fence_tpiece_ghost" : {
+				"description" : "Look both ways.",
+				"name" : "T-Junction Connection"
 			},
-			"wall_cpiece_ghost": {
-				"description": "Where bad Earthlings are sent.",
-				"name": "Corner Piece"
+			"fence_xpiece_ghost" : {
+				"description" : "X Marks the Spot!",
+				"name" : "Cross Junction Connection"
 			},
-			"wall_epiece_ghost": {
-				"description": "A sad end to a great wall.",
-				"name": "Wall End"
+			"wall_10piece_ghost" : {
+				"description" : "Strong man.",
+				"name" : "10 Piece Wall"
 			},
-			"wall_ppiece_ghost": {
-				"description": "Why did I create this piece?",
-				"name": "Single Wall Piece"
+			"wall_cpiece_ghost" : {
+				"description" : "Where bad Earthlings are sent.",
+				"name" : "Corner Piece"
 			},
-			"wall_tpiece_ghost": {
-				"description": "Look both ways.",
-				"name": "T-Junction Connection"
+			"wall_epiece_ghost" : {
+				"description" : "A sad end to a great wall.",
+				"name" : "Wall End"
 			},
-			"wall_xpiece_ghost": {
-				"description": "X Marks the forget it.",
-				"name": "Cross Junction Connection"
+			"wall_ppiece_ghost" : {
+				"description" : "Why did I create this piece?",
+				"name" : "Single Wall Piece"
+			},
+			"wall_tpiece_ghost" : {
+				"description" : "Look both ways.",
+				"name" : "T-Junction Connection"
+			},
+			"wall_xpiece_ghost" : {
+				"description" : "X Marks the forget it.",
+				"name" : "Cross Junction Connection"
 			}
 		}
 	}

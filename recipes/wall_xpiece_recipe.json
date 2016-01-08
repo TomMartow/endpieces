@@ -1,21 +1,20 @@
 {
-   "type":"recipe",
+	"type" : "recipe",
 
-   "work_units"  : 3,
-   "recipe_name" : "i18n(endpieces:recipes.wall_xpiece_recipe.recipe_name)",
-   "description" : "i18n(endpieces:recipes.wall_xpiece_recipe.description)",
-   "flavor"      : "i18n(endpieces:recipes.wall_xpiece_recipe.flavor)",
-   "portrait"    : "/endpieces/entities/construction/wall_xpiece.png", 
+	"work_units" : 3,
+	"recipe_name" : "i18n(endpieces:recipes.wall_xpiece_recipe.recipe_name)",
+	"description" : "i18n(endpieces:recipes.wall_xpiece_recipe.description)",
+	"flavor" : "i18n(endpieces:recipes.wall_xpiece_recipe.flavor)",
+	"portrait" : "/endpieces/entities/construction/wall_xpiece.png",
+	"workshop" : "stonehearth:mason:workbench",
 
-   "ingredients": [
-      {
-         "material" : "stone resource",
-         "count" : 1
-      }
-  ],
-  "produces": [
-      {
-         "item":"endpieces:wall_xpiece"
-      }
-  ]
+	"ingredients" : [{
+			"material" : "stone resource",
+			"count" : 1
+		}
+	],
+	"produces" : [{
+			"item" : "endpieces:wall_xpiece"
+		}
+	]
 }

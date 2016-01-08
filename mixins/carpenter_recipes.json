@@ -1,29 +1,32 @@
 {
-    "craftable_recipes": {
-        "building_parts": {
-            "recipes": {
-                "fence_xpiece": {
-                    "recipe": "file(/recipes/fence_xpiece_recipe.json)"
-                },
-				"fence_tpiece": {
-                    "recipe": "file(/recipes/fence_tpiece_recipe.json)"
-                },
-				"fence_epiece": {
-                    "recipe": "file(/recipes/fence_epiece_recipe.json)"
-                },
-				"fence_expiece": {
-                    "recipe": "file(/recipes/fence_expiece_recipe.json)"
-                },
-				"fence_cpiece": {
-                    "recipe": "file(/recipes/fence_cpiece_recipe.json)"
-                },
-				"fence_ppiece": {
-                    "recipe": "file(/recipes/fence_ppiece_recipe.json)"
-                },
-				"fence_spiece": {
-                    "recipe": "file(/recipes/fence_spiece_recipe.json)"
-                }
-            }
-        }
-    }
+	"craftable_recipes" : {
+		"building_parts" : {
+			"recipes" : {
+				"fence_10piece" : {
+					"recipe" : "file(/recipes/fence_10piece_recipe.json)"
+				},
+				"fence_xpiece" : {
+					"recipe" : "file(/recipes/fence_xpiece_recipe.json)"
+				},
+				"fence_tpiece" : {
+					"recipe" : "file(/recipes/fence_tpiece_recipe.json)"
+				},
+				"fence_epiece" : {
+					"recipe" : "file(/recipes/fence_epiece_recipe.json)"
+				},
+				"fence_expiece" : {
+					"recipe" : "file(/recipes/fence_expiece_recipe.json)"
+				},
+				"fence_cpiece" : {
+					"recipe" : "file(/recipes/fence_cpiece_recipe.json)"
+				},
+				"fence_ppiece" : {
+					"recipe" : "file(/recipes/fence_ppiece_recipe.json)"
+				},
+				"fence_spiece" : {
+					"recipe" : "file(/recipes/fence_spiece_recipe.json)"
+				}
+			}
+		}
+	}
 }

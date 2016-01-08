@@ -1,11 +1,15 @@
 # _EndPieces_
 
-_This modification adds 10 lore friendly models to Stonehearth complementing the original wooden and stone fence design. The new models are available in both wood and stone models._
-- Corner Piece
-- 'T' Junction Piece
-- 'X' Crossroads Piece
-- End Piece
-- Single Post
+_This modification adds 14 lore friendly models to Stonehearth complementing the original wooden and stone fence design. The new models are available in both wood and stone models._
+ - Corner Piece
+ - 'T' Junction Piece
+ - 'X' Crossroads Piece
+ - End Piece
+ - Single Post
+ - Wooden Extender Piece (wood only)
+ - Stair Piece (wood only)
+ - 10 Piece Fence (wood only)
+ - 10 Piece Wall (stone only)
 
 ### _Installation_
 
