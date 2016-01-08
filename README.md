@@ -16,6 +16,7 @@ _This modification adds 14 lore friendly models to Stonehearth complementing the
 1. Download this mod as a ZIP file.
 2. Extract the `endpieces.zip' file.
 3. Drag the 'endpieces.smod' file into the 'Stonehearth\mods' directory.
+4. (OPTIONAL) If you like neat things place the 'secretpieces.smod' file into the 'Stonehearth\mods'directory.
 
 ### _Gameplay_
 
