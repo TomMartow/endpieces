@@ -7,6 +7,13 @@
 			"ghost_form" : "file(fence_tpiece_ghost.json)",
 			"placeable_on_ground" : true
 		},
+		"mob" : {
+			"region_origin" : {
+				"x" : 0.5,
+				"y" : 0,
+				"z" : 0.5
+			}
+		},
 		"region_collision_shape" : {
 			"region" : [{
 					"min" : {
