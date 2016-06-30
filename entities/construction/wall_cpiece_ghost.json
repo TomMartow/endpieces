@@ -13,7 +13,7 @@
 			"icon" : "file(wall_cpiece.png)"
 		},
 		"stonehearth:material" : {
-			"tags" : "wood defense crafted"
+			"tags" : "wood defense crafted fence stockpile_defense"
 		},
 		"mob" : {
 			"model_origin" : {
