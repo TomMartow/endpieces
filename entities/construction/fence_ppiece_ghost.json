@@ -1,4 +1,5 @@
 {
+	"mixins": "stonehearth:mixins:placed_object",
 	"components" : {
 		"model_variants" : {
 			"default" : {
@@ -13,19 +14,19 @@
 			"icon" : "file(fence_ppiece.png)"
 		},
 		"stonehearth:material" : {
-			"tags" : "wood defense crafted"
+			"tags" : "wood defense crafted fence stockpile_defense"
 		},
 		"mob" : {
 			"model_origin" : {
-				"x" : 0,
+				"x" : -1,
 				"y" : 0,
-				"z" : 0
+				"z" : -1
 			},
-			"region_origin" : {
-				"x" : 0.5,
-				"y" : 0,
-				"z" : 0.5
-			}
+         "region_origin": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+         }
 		}
 	}
 }

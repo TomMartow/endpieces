@@ -8,7 +8,7 @@
 		"model_variants" : {
 			"default" : {
 				"models" : [
-					"file(picket_fence_iconic.qb)"
+					"stonehearth/entities/construction/picket_fence/picket_fence_iconic.qb"
 				]
 			}
 		},
