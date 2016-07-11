@@ -1,6 +1,5 @@
 {
 	"type" : "recipe",
-
 	"work_units" : 3,
 	"recipe_name" : "i18n(endpieces:recipes.fence_10piece_recipe.recipe_name)",
 	"description" : "i18n(endpieces:recipes.fence_10piece_recipe.description)",
@@ -14,7 +13,7 @@
 		}
 	],
 	"produces" : [{
-			"item" : "endpieces:fence_10piece"
+			"item" : "endpieces:construction:fence_10piece"
 		}
 	]
 }

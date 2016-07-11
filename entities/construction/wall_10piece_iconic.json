@@ -8,7 +8,7 @@
 		"model_variants" : {
 			"default" : {
 				"models" : [
-					"stonehearth/entities/constructioncobblestone_fence/cobblestone_fence_iconic.qb"
+					"file(wall_10piece_iconic.qb)"
 				]
 			}
 		},

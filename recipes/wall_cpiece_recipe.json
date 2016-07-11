@@ -14,7 +14,7 @@
 		}
 	],
 	"produces" : [{
-			"item" : "endpieces:wall_cpiece"
+			"item" : "endpieces:construction:wall_cpiece"
 		}
 	]
 }

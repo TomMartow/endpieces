@@ -14,7 +14,7 @@
 		}
 	],
 	"produces" : [{
-			"item" : "endpieces:fence_epiece"
+			"item" : "endpieces:construction:fence_epiece"
 		}
 	]
 }

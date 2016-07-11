@@ -8,24 +8,12 @@
 			"placeable_on_ground": true
 		},
 		"mob": {
-			"region_origin": {
-				"x": 0.5,
-				"y": 0,
-				"z": 0.5
-			}
+			"region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
 		},
 		"region_collision_shape": {
 			"region": [{
-				"min": {
-					"x": -9.25,
-					"y": 0,
-					"z": 0.25
-				},
-				"max": {
-					"x": 10.25,
-					"y": 2,
-					"z": 0.75
-				}
+				"min": { "x": -9.25, "y": 0, "z": 0.25 },
+				"max": { "x": 10.25, "y": 2, "z": 0.75 }
 			}]
 		},
 		"entity_data": {
