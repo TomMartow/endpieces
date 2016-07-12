@@ -1,0 +1,24 @@
+{
+	"mixins" : "stonehearth:mixins:item_properties",
+	"type" : "entity",
+	"components" : {
+		"item" : {
+			"category" : "construction"
+		},
+		"model_variants" : {
+			"default" : {
+				"models" : [
+					"file(wall_10piece_iconic.qb)"
+				]
+			}
+		},
+		"unit_info" : {
+			"display_name" : "i18n(endpieces:entities.construction.wall_10piece_ghost.name)",
+			"description" : "i18n(endpieces:entities.construction.wall_10piece_ghost.description)",
+			"icon" : "file(wall_10piece.png)"
+		},
+		"mob" : {
+			"model_origin" : { "x" : 0, "y" : 0, "z" : 0.05 }
+		}
+	}
+}

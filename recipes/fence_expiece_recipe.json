@@ -5,7 +5,7 @@
 	"recipe_name" : "i18n(endpieces:recipes.fence_expiece_recipe.recipe_name)",
 	"description" : "i18n(endpieces:recipes.fence_expiece_recipe.description)",
 	"flavor" : "i18n(endpieces:recipes.fence_expiece_recipe.flavor)",
-	"portrait" : "/endpieces/entities/construction/fence_expiece.png",
+	"portrait" : "/endpieces/entities/construction/fence_expiece/fence_expiece.png",
 	"workshop" : "stonehearth:carpenter:workbench",
 	"level_requirement" : 1,
 	"ingredients" : [{
