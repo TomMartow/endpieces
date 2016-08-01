@@ -5,7 +5,7 @@
 	"recipe_name" : "i18n(endpieces:recipes.wall_cpiece_recipe.recipe_name)",
 	"description" : "i18n(endpieces:recipes.wall_cpiece_recipe.description)",
 	"flavor" : "i18n(endpieces:recipes.wall_cpiece_recipe.flavor)",
-	"portrait" : "/endpieces/entities/construction/wall_cpiece.png",
+	"portrait" : "/endpieces/entities/construction/wall_cpiece/wall_cpiece.png",
 	"workshop" : "stonehearth:mason:workbench",
 
 	"ingredients" : [{
@@ -14,7 +14,7 @@
 		}
 	],
 	"produces" : [{
-			"item" : "endpieces:wall_cpiece"
+			"item" : "endpieces:construction:wall_cpiece"
 		}
 	]
 }
