@@ -1,24 +1,27 @@
 {
-	"mixins": "stonehearth:mixins:placed_object",
-	"components" : {
-		"model_variants" : {
-			"default" : {
-				"models" : [
-					"file(wall_10piece.qb)"
-				]
-			}
-		},
-		"unit_info" : {
-			"display_name" : "i18n(endpieces:entities.construction.wall_10piece_ghost.name)",
-			"description" : "i18n(endpieces:entities.construction.wall_10piece_ghost.description)",
-			"icon" : "file(wall_10piece.png)"
-		},
-		"stonehearth:material" : {
-			"tags" : "stone defense crafted fence stockpile_defense"
-		},
-		"mob" : {
-			"model_origin" : { "x" : 0, "y" : 0, "z" : 0 },
-			"region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
-		}
-	}
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(wall_10piece.qb)"
+            ]
+         }
+      },
+      "stonehearth:material": {
+         "tags": "stone defense crafted fence stockpile_defense"
+      },
+      "mob": {
+         "model_origin": { "x": 0, "y": 0, "z": 0 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(endpieces:entities.construction.wall_10piece_ghost.name)",
+         "description": "i18n(endpieces:entities.construction.wall_10piece_ghost.description)",
+         "icon": "file(wall_10piece.png)",
+         "category": "construction"
+      }
+   }
 }

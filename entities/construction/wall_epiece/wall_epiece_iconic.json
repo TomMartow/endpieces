@@ -1,25 +1,26 @@
 {
-	"mixins" : "stonehearth:mixins:item_properties",
-	"type" : "entity",
-	"components" : {
-		"item" : {
-			"category" : "construction"
-		},
-		"model_variants" : {
-			"default" : {
-				"models" : [
-					"file(wall_epiece_iconic.qb)"
-				]
-			}
-		},
-		"unit_info" : {
-			"display_name" : "i18n(endpieces:entities.construction.wall_epiece_ghost.name)",
-			"description" : "i18n(endpieces:entities.construction.wall_epiece_ghost.description)",
-			"icon" : "file(wall_epiece.png)"
-		},
-		"mob" : {
-			"model_origin" : { "x" : -0.05, "y" : 0, "z" : -0.05 },
-			"region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
-		}
-	}
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(wall_epiece_iconic.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": -0.05, "y": 0, "z": -0.05 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(endpieces:entities.construction.wall_epiece_ghost.name)",
+         "description": "i18n(endpieces:entities.construction.wall_epiece_ghost.description)",
+         "icon": "file(wall_epiece.png)",
+         "is_item": true,
+         "category": "construction"
+      }
+   }
 }
