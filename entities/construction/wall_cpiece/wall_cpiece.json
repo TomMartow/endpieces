@@ -7,12 +7,34 @@
 			"ghost_form": "file(wall_cpiece_ghost.json)",
 			"placeable_on_ground": true
 		},
-		"region_collision_shape": {
-			"region": [{
-				"min": { "x": -0.25, "y": 0, "z": 0.1 },
-				"max": { "x": 0.9, "y": 2, "z": 1.25 }
-			}]
-		},
+   "region_collision_shape": {
+      "region": [
+         {
+            "min": {
+               "x": -0.25,
+               "y": 0,
+               "z": 0.25
+            },
+            "max": {
+               "x": 0.25,
+               "y": 2,
+               "z": 0.75
+            }
+         },
+         {
+            "min": {
+               "x": 0.25,
+               "y": 0,
+               "z": 0.25
+            },
+            "max": {
+               "x": 0.75,
+               "y": 2,
+               "z": 1.25
+            }
+         }
+      ]
+   },
 		"entity_data": {
 			"stonehearth:net_worth": {
 				"value_in_gold": 10,
