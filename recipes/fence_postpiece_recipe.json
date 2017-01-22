@@ -1,0 +1,20 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 3,
+	"recipe_name" : "i18n(endpieces:recipes.fence_postpiece_recipe.recipe_name)",
+	"description" : "i18n(endpieces:recipes.fence_postpiece_recipe.description)",
+	"flavor" : "i18n(endpieces:recipes.fence_postpiece_recipe.flavor)",
+	"portrait" : "/endpieces/entities/construction/fence_postpiece/fence_postpiece.png",
+	"workshop" : "stonehearth:carpenter:workbench",
+	"level_requirement" : 1,
+	"ingredients" : [{
+			"material" : "wood resource",
+			"count" : 1
+		}
+	],
+	"produces" : [{
+			"item" : "endpieces:construction:fence_postpiece"
+		}
+	]
+}

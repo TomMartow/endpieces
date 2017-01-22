@@ -7,19 +7,19 @@
 	
 	"aliases" : {
 		"construction:fence_10piece" : "file(entities/construction/fence_10piece/fence_10piece.json)",
-		"construction:fence_xpiece" : "file(entities/construction/fence_xpiece/fence_xpiece.json)",
-		"construction:fence_tpiece" : "file(entities/construction/fence_tpiece/fence_tpiece.json)",
-		"construction:fence_epiece" : "file(entities/construction/fence_epiece/fence_epiece.json)",
-		"construction:fence_expiece" : "file(entities/construction/fence_expiece/fence_expiece.json)",
-		"construction:fence_cpiece" : "file(entities/construction/fence_cpiece/fence_cpiece.json)",
-		"construction:fence_ppiece" : "file(entities/construction/fence_ppiece/fence_ppiece.json)",
-		"construction:fence_spiece" : "file(entities/construction/fence_spiece/fence_spiece.json)",
+		"construction:fence_crosspiece" : "file(entities/construction/fence_crosspiece/fence_crosspiece.json)",
+		"construction:fence_tjunctionpiece" : "file(entities/construction/fence_tjunctionpiece/fence_tjunctionpiece.json)",
+		"construction:fence_endpiece" : "file(entities/construction/fence_endpiece/fence_endpiece.json)",
+		"construction:fence_extenderpiece" : "file(entities/construction/fence_extenderpiece/fence_extenderpiece.json)",
+		"construction:fence_cornerpiece" : "file(entities/construction/fence_cornerpiece/fence_cornerpiece.json)",
+		"construction:fence_postpiece" : "file(entities/construction/fence_postpiece/fence_postpiece.json)",
+		"construction:fence_stairpiece" : "file(entities/construction/fence_stairpiece/fence_stairpiece.json)",
 		"construction:wall_10piece" : "file(entities/construction/wall_10piece/wall_10piece.json)",
-		"construction:wall_xpiece" : "file(entities/construction/wall_xpiece/wall_xpiece.json)",
-		"construction:wall_tpiece" : "file(entities/construction/wall_tpiece/wall_tpiece.json)",
-		"construction:wall_epiece" : "file(entities/construction/wall_epiece/wall_epiece.json)",
-		"construction:wall_cpiece" : "file(entities/construction/wall_cpiece/wall_cpiece.json)",
-		"construction:wall_ppiece" : "file(entities/construction/wall_ppiece/wall_ppiece.json)"
+		"construction:wall_crosspiece" : "file(entities/construction/wall_crosspiece/wall_crosspiece.json)",
+		"construction:wall_tjunctionpiece" : "file(entities/construction/wall_tjunctionpiece/wall_tjunctionpiece.json)",
+		"construction:wall_endpiece" : "file(entities/construction/wall_endpiece/wall_endpiece.json)",
+		"construction:wall_cornerpiece" : "file(entities/construction/wall_cornerpiece/wall_cornerpiece.json)",
+		"construction:wall_postpiece" : "file(entities/construction/wall_postpiece/wall_postpiece.json)"
 	},
 	"mixintos" : {
 		"/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(mixins/carpenter_recipes.json)",

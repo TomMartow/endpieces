@@ -1,0 +1,20 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 3,
+	"recipe_name" : "i18n(endpieces:recipes.wall_endpiece_recipe.recipe_name)",
+	"description" : "i18n(endpieces:recipes.wall_endpiece_recipe.description)",
+	"flavor" : "i18n(endpieces:recipes.wall_endpiece_recipe.flavor)",
+	"portrait" : "/endpieces/entities/construction/wall_endpiece/wall_endpiece.png",
+	"workshop" : "stonehearth:mason:workbench",
+
+	"ingredients" : [{
+			"material" : "stone resource",
+			"count" : 1
+		}
+	],
+	"produces" : [{
+			"item" : "endpieces:construction:wall_endpiece"
+		}
+	]
+}

@@ -5,20 +5,20 @@
 				"wall_10piece" : {
 					"recipe" : "file(/recipes/wall_10piece_recipe.json)"
 				},
-				"wall_xpiece" : {
-					"recipe" : "file(/recipes/wall_xpiece_recipe.json)"
+				"wall_crosspiece" : {
+					"recipe" : "file(/recipes/wall_crosspiece_recipe.json)"
 				},
-				"wall_tpiece" : {
-					"recipe" : "file(/recipes/wall_tpiece_recipe.json)"
+				"wall_tjunctionpiece" : {
+					"recipe" : "file(/recipes/wall_tjunctionpiece_recipe.json)"
 				},
-				"wall_epiece" : {
-					"recipe" : "file(/recipes/wall_epiece_recipe.json)"
+				"wall_endpiece" : {
+					"recipe" : "file(/recipes/wall_endpiece_recipe.json)"
 				},
-				"wall_cpiece" : {
-					"recipe" : "file(/recipes/wall_cpiece_recipe.json)"
+				"wall_cornerpiece" : {
+					"recipe" : "file(/recipes/wall_cornerpiece_recipe.json)"
 				},
-				"wall_ppiece" : {
-					"recipe" : "file(/recipes/wall_ppiece_recipe.json)"
+				"wall_postpiece" : {
+					"recipe" : "file(/recipes/wall_postpiece_recipe.json)"
 				}
 			}
 		}
