@@ -1,4 +1,0 @@
-	"level_requirement" : 1,
-
-
-"workshop" : "stonehearth:mason:workbench",
