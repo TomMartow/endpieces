@@ -18,7 +18,7 @@ _This modification adds 14 lore friendly models to Stonehearth complementing the
 3. Drag the recently renamed folder 'endpieces' folder into the 'Stonehearth\mods' directory. NOTE: If the folder isn't renamed exactly to 'endpieces' without the '' your game will throw an exception error and the mod will not load.
 4. If you've done this correctly the inside the 'endpieces' folder you should find the 'manifest.json' file inside.
 5. (OPTIONAL 1a) Right Click on the 'endpieces' folder and then choose 'Send To > Compressed (zipped) Folder'.
-6. (OPTIONAL 1B) Now Rename the filename extension from '.zip' to '.smod'.
+6. (OPTIONAL 1b) Now Rename the filename extension from '.zip' to '.smod'.
 
 ### _Gameplay_
 
